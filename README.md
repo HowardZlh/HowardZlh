@@ -69,12 +69,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. 🚀 Released [v1.1.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.1.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-2. 🚀 Released [v1.0.3](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.3) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-3. 🚀 Released [v1.0.2](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.2) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-4. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-5. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-6. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+1. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
+2. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+3. ✅ Merged [#59 README: project activity charts (snake, heatmap, 3D)](https://github.com/HowardZlh/stellar-odyssey/pull/59) in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-09</sub>
+4. ✅ Merged [#10 README: project activity charts (snake, heatmap, 3D)](https://github.com/FailRouter/failrouter/pull/10) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
+5. ✅ Merged [#10 README: project activity charts (snake, heatmap, 3D)](https://github.com/HowardZlh/usage-guard-collector/pull/10) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-10-09</sub>
+6. 🚀 Released [v1.1.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.1.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
