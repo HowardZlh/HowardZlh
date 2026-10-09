@@ -69,12 +69,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. 🚀 Released [v1.0.2](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.2) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-2. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-3. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-4. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-5. ✅ Merged [#9 docs: README leads with self-hosted / one-click deploy](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
-6. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
+1. 🚀 Released [v1.1.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.1.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+2. 🚀 Released [v1.0.3](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.3) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+3. 🚀 Released [v1.0.2](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.2) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+4. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+5. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+6. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
