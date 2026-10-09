@@ -29,8 +29,6 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Open-source projects
 
 <!-- SHOWCASE:REPOS:START -->
-<sub>⭐ 5 stars across 4 open-source projects</sub>
-
 | Project | What it does | Stack | Stars |
 |:--|:--|:--|:--|
 | [**usage-guard-collector**](https://github.com/HowardZlh/usage-guard-collector) · [live ↗](https://guushu.com/notes/cloudflare-bill-incidents-2026/) | Self-hosted Cloudflare usage spike alerts, one-click deploy. Read-only Worker: D1 rows read, Durable Objects, KV, R2, Queues -> your D1, Discord/Slack. MIT. | TypeScript | [![Stars of HowardZlh/usage-guard-collector](https://img.shields.io/github/stars/HowardZlh/usage-guard-collector?style=social)](https://github.com/HowardZlh/usage-guard-collector/stargazers) |
@@ -72,10 +70,10 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-2. ✅ Merged [#9](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
-3. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
-4. 🔀 Opened [#9](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
+1. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+2. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+3. ✅ Merged [#9 docs: README leads with self-hosted / one-click deploy](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
+4. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
 5. ⬆️ Pushed to `main` in [Guushu](https://github.com/HowardZlh/Guushu) · <sub>2026-09-29</sub>
 6. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-09-29</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
