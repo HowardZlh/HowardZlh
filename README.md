@@ -28,12 +28,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Open-source projects
 
 <!-- SHOWCASE:REPOS:START -->
-| Project | What it does | Stack | Stars |
+| Project | What it does | Stack | ⭐ |
 |:--|:--|:--|:--|
-| [**usage-guard-collector**](https://github.com/HowardZlh/usage-guard-collector) · [live ↗](https://guushu.com/notes/cloudflare-bill-incidents-2026/) | Self-hosted Cloudflare usage spike alerts, one-click deploy. Read-only Worker: D1 rows read, Durable Objects, KV, R2, Queues -> your D1, Discord/Slack. MIT. | TypeScript | [![Stars of HowardZlh/usage-guard-collector](https://img.shields.io/github/stars/HowardZlh/usage-guard-collector?style=social)](https://github.com/HowardZlh/usage-guard-collector/stargazers) |
-| [**stellar-odyssey**](https://github.com/HowardZlh/stellar-odyssey) · [live ↗](https://stellar.guushu.com/) | A scroll-wheel journey from a planet's surface to the edge of the observable universe. A multi-scale 3D visualization of celestial motion built with React + Three.js. | TypeScript | [![Stars of HowardZlh/stellar-odyssey](https://img.shields.io/github/stars/HowardZlh/stellar-odyssey?style=social)](https://github.com/HowardZlh/stellar-odyssey/stargazers) |
-| [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Stars of FailRouter/failrouter](https://img.shields.io/github/stars/FailRouter/failrouter?style=social)](https://github.com/FailRouter/failrouter/stargazers) |
-| [**github-action-shares**](https://github.com/HowardZlh/github-action-shares) | Animated contribution heatmap, snake and 3D skyline SVGs for any GitHub repo, org or user, plus auto-updated stars and activity in your README. Zero-dependency GitHub Action, MIT. | JavaScript | [![Stars of HowardZlh/github-action-shares](https://img.shields.io/github/stars/HowardZlh/github-action-shares?style=social)](https://github.com/HowardZlh/github-action-shares/stargazers) |
+| [**usage-guard-collector**](https://github.com/HowardZlh/usage-guard-collector) · [live ↗](https://guushu.com/notes/cloudflare-bill-incidents-2026/) | Self-hosted Cloudflare usage spike alerts, one-click deploy. Read-only Worker: D1 rows… | TypeScript | [![Star HowardZlh/usage-guard-collector on GitHub](https://img.shields.io/badge/Star-on_GitHub-white?style=social&logo=github)](https://github.com/HowardZlh/usage-guard-collector) |
+| [**stellar-odyssey**](https://github.com/HowardZlh/stellar-odyssey) · [live ↗](https://stellar.guushu.com/) | A scroll-wheel journey from a planet's surface to the edge of the observable universe. A… | TypeScript | [![Star HowardZlh/stellar-odyssey on GitHub](https://img.shields.io/badge/Star-on_GitHub-white?style=social&logo=github)](https://github.com/HowardZlh/stellar-odyssey) |
+| [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Star FailRouter/failrouter on GitHub](https://img.shields.io/badge/Star-on_GitHub-white?style=social&logo=github)](https://github.com/FailRouter/failrouter) |
+| [**github-action-shares**](https://github.com/HowardZlh/github-action-shares) | Animated contribution heatmap, snake and 3D skyline SVGs for any GitHub repo, org or… | JavaScript | [![Star HowardZlh/github-action-shares on GitHub](https://img.shields.io/badge/Star-on_GitHub-white?style=social&logo=github)](https://github.com/HowardZlh/github-action-shares) |
 <!-- SHOWCASE:REPOS:END -->
 
 ## Contribution graph
@@ -69,12 +69,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-2. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-3. ✅ Merged [#9 docs: README leads with self-hosted / one-click deploy](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
-4. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
-5. ⬆️ Pushed to `main` in [Guushu](https://github.com/HowardZlh/Guushu) · <sub>2026-09-29</sub>
-6. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-09-29</sub>
+1. 🚀 Released [v1.0.2](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.2) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+2. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+3. 🚀 Released [v1.0.1](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+4. 🚀 Released [v1.0.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.0.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
+5. ✅ Merged [#9 docs: README leads with self-hosted / one-click deploy](https://github.com/HowardZlh/usage-guard-collector/pull/9) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
+6. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-09-30</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
