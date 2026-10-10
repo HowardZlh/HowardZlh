@@ -55,12 +55,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. 🔀 Opened [#1 feat: window: auto and activity.svg for young repos and orgs (v1.2.0)](https://github.com/HowardZlh/github-action-shares/pull/1) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
-2. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
-3. ⬆️ Pushed to `main` in [.github](https://github.com/FailRouter/.github) · <sub>2026-10-09</sub>
-4. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-5. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
-6. ✅ Merged [#59 README: project activity charts (snake, heatmap, 3D)](https://github.com/HowardZlh/stellar-odyssey/pull/59) in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-09</sub>
+1. ✅ Merged [#2 docs: Dev.to article and real-page screenshots in README and tutorials](https://github.com/HowardZlh/github-action-shares/pull/2) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
+2. ✅ Merged [#11 docs: one activity chart instead of three; CI and last-commit badges](https://github.com/FailRouter/failrouter/pull/11) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-10</sub>
+3. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-10</sub>
+4. ✅ Merged [#11 docs(readme): one activity chart instead of three; CI and last-commit…](https://github.com/HowardZlh/usage-guard-collector/pull/11) in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-10-10</sub>
+5. ✅ Merged [#60 docs(readme): one activity chart instead of three; badges 8 → 5](https://github.com/HowardZlh/stellar-odyssey/pull/60) in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-10</sub>
+6. 🚀 Released [v1.2.0](https://github.com/HowardZlh/github-action-shares/releases/tag/v1.2.0) in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
