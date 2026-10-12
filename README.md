@@ -55,12 +55,12 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-10-09</sub>
-2. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-09</sub>
-3. ⬆️ Pushed to `main` in [.github](https://github.com/FailRouter/.github) · <sub>2026-10-10</sub>
-4. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
-5. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
-6. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-10-10</sub>
+1. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-10</sub>
+2. ⬆️ Pushed to `main` in [usage-guard-collector](https://github.com/HowardZlh/usage-guard-collector) · <sub>2026-10-09</sub>
+3. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-09</sub>
+4. ⬆️ Pushed to `main` in [.github](https://github.com/FailRouter/.github) · <sub>2026-10-10</sub>
+5. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-10</sub>
+6. ⬆️ Pushed to `main` in [github-action-shares](https://github.com/HowardZlh/github-action-shares) · <sub>2026-10-09</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
