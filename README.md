@@ -55,7 +55,7 @@ One scroll wheel, four zoom levels: Earth, the Solar System on real Keplerian or
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
-1. ⬆️ Pushed to `main` in [stellar-odyssey](https://github.com/HowardZlh/stellar-odyssey) · <sub>2026-10-10</sub>
+_Nothing public in the last 90 days._
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Get in touch
